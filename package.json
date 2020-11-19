@@ -1,7 +1,6 @@
 {
-  "name": "VenroBot",
+  "name": "venrofrozzz_bot",
   "version": "1.0.0",
-  "description": "",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +17,12 @@
   },
   "homepage": "https://github.com/FroZZZLZT/VenroBOT#readme",
   "dependencies": {
+    "node-fetch": "^2.6.1",
     "telegraf": "^3.38.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "description": ""
 }
